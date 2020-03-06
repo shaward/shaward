@@ -1,0 +1,17 @@
+dynatrace:
+install one agent
+noconfiguration
+go back in time and replay the problem
+monitor application
+works on the cloud
+
+SolarWinds:
+ip monitor tool
+network monitoring
+for small networks
+
+Nagios monitoring server
+free
+monitor network assets
+nems linux
+notify  problems
